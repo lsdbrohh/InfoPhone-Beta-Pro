@@ -16,7 +16,7 @@ Instalación:
 
 Clona el repositorio desde GitHub:
 
- Comando: git clone https://github.com/tuusuario/infophone.git
+ Comando: git clone https://github.com/skeetlsd/infophone.git
 cd infophone
 
 Crear un entorno virtual (recomendado) para mas seguridad pero el creador no lo recomienda:
